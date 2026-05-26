@@ -1,0 +1,4 @@
+interface:
+  display_name: "Judgment Anchoring"
+  short_description: "为复杂判断任务选择领域锚点并保持清晰可验证的审查标准"
+  default_prompt: "Use $judgment-anchoring to analyze this decision with the right domain anchors."
